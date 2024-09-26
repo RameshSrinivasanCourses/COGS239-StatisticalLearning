@@ -1,9 +1,25 @@
 # COGS239-StatisticalLearning
-## YOUTUBE LINK FOR CLASS LECTURES
 
-https://www.youtube.com/playlist?list=PLYm0Y925CmSyUDGPJc1JX097AV0JKt5rp
+### Statistical Learning Resources 
 
-## YOUTUBE LINK FOR COGS/PSYCH 14P LECTURES 
+### Github page of textbook 
+
+https://github.com/intro-stat-learning
+
+### Edx course by Authors of book 
+(must sign up by TODAY!)
+https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python
+
+### YOUTUBE LINK OF BOOK AUTHORS 
+
+https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ
+
+### YOUTUBE LINK FOR CLASS LECTURES
+
+
+## Python Resources
+
+### COGS/PSYCH 14P LECTURES 
 
 https://www.youtube.com/playlist?list=PLYm0Y925CmSzijXpQLKK2zPSo4rbLvZlv
 
