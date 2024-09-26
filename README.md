@@ -36,6 +36,5 @@ https://www.youtube.com/playlist?list=PLYm0Y925CmSzijXpQLKK2zPSo4rbLvZlv
 - Scientific Python (Signal Processing and Statistics) `scipy`  https://scipy.org/
 - Machine Learning `scikit-learn` https://scikit-learn.org/stable/
 
-### **PYTHON REVIEW: Link to course materials (Lectures) for COGS 14P** 
-
-https://github.com/rameshsrinivasanuci/COGS14P_S23
+old school
+- Statistical Models `statsmodel` https://www.statsmodels.org/stable/index.html
